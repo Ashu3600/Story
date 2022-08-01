@@ -1,1 +1,3 @@
 this file was created using the command Notepad chapter1.txt
+here we are adding a modifications in terms of the alien plot 
+this makes it more interesting
